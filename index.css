@@ -82,6 +82,8 @@ body {
     font-family: inherit;
     font-size: 24px;
     height: 65px;
+    transition-duration: 175ms;
+    transition-timing-function: linear;
 }
 
 .calc-button:hover {
